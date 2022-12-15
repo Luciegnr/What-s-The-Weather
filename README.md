@@ -70,10 +70,9 @@ Ensuite nous avons donc une page de recherche qui nous permet par la suite de na
 
 Et pour finir, un onglet favoris qui permet à l'utilisateur de retrouver l'ensemble des villes qu'il a ajouté a ses favoris sous la forme d'un carrousel.
 
-<img src="https://i.imgur.com/gWvslNb.jpg" width="228"/>
-<img src="https://i.imgur.com/8r2DcCL.png" width="228"/>
-<img src="https://i.imgur.com/tiG4ME4.png" width="228"/>
-<img src="https://i.imgur.com/xNYVNoC.png" width="228"/>
+| Autorisation de la géolocalisation | Page d'accueil | Prévisions sur 7 jours | Rechercher par ville avec l'auto complétion |
+| -------- | -------- |-------- | -------- |
+| <img src="https://i.imgur.com/gWvslNb.jpg" width="228"/> | <img src="https://i.imgur.com/8r2DcCL.png" width="228"/> | <img src="https://i.imgur.com/tiG4ME4.png" width="228"/> | <img src="https://i.imgur.com/xNYVNoC.png" width="228"/> |
 
 <video src='https://user-images.githubusercontent.com/91067946/194086909-fd3c9428-ea1f-41b5-a81e-23692a6c0ab7.mp4' controls loop width=280 />
 
